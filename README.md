@@ -1,10 +1,20 @@
-# Automatizacion de Redes
+## Avance del proyecto integrador
 
-Proyecto de automatizacion de redes.
+### Práctica 1
+Preparación de la estación de automatización de redes.
+Estado: Completada.
 
-## Estructura del proyecto
+### Práctica 2
+Construcción de la red simulada en GNS3.
+Estado: Completada.
 
-- src: Codigo fuente del proyecto.
-- tests: Pruebas realizadas.
-- data: Datos utilizados durante el proyecto.
-- docs: Documentacion y evidencias.
+Infraestructura construida:
+- Topología básica PC-Switch-PC.
+- Topología con dos routers y un switch multicapa.
+- Direccionamiento IP.
+- Conectividad entre dispositivos.
+- Protocolo OSPF.
+- Verificación de tablas de enrutamiento.
+
+Próximo paso:
+Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestructura de red.
