@@ -1,19 +1,19 @@
 dispositivos = [
     {
-       "nombre": "R1",
-        "tipo": "Router",
-        "ip": "10.1.1.1",
-        "loopback": "1.1.1.1",
-        "interfaz": "GigabitEthernet0/0",
-        "estado": "Activo"
+    "nombre": "R1",
+    "tipo": "Router",
+    "ip": "10.1.1.1",
+    "estado": "Activo",
+    "fabricante": "Cisco",
+    "protocolo": "OSPF"
     },
     {
-        "nombre": "R2",
-        "tipo": "Router",
-        "ip": "10.1.1.2",
-        "loopback": "2.2.2.2",
-        "interfaz": "GigabitEthernet0/0",
-        "estado": "Activo"
+    "nombre": "R2",
+    "tipo": "Router",
+    "ip": "192.168.8.243",
+    "estado": "Activo",
+    "fabricante": "Cisco",
+    "protocolo": "OSPF"
     },
     {
         "nombre": "S1",
@@ -22,11 +22,11 @@ dispositivos = [
         "estado": "Activo"
     }
 ]
-
-print("")
-for dispositivo in dispositivos:
+def mostrar_dispositivo(dispositivo):
     print("Nombre:", dispositivo["nombre"])
     print("Tipo:", dispositivo["tipo"])
     print("IP:", dispositivo["ip"])
     print("Estado:", dispositivo["estado"])
+for dispositivo in dispositivos:
+    mostrar_dispositivo(dispositivo)
     print("--------------------")
