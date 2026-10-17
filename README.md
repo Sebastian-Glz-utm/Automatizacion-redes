@@ -2,6 +2,7 @@
 
 ### Práctica 1
 Preparación de la estación de automatización de redes.
+
 Estado: Completada.
 **Estado:**  Completada.
 
