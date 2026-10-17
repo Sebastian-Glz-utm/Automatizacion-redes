@@ -25,7 +25,7 @@ Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestru
 **Nombre:** Primer programa de Python para representar
 informacion de dispositivos.
 
-**Estado:** Completada (una vez realizadas y verificadas las pruebas).
+**Estado:** Completada.
 
 Se desarrollo un programa en Python para representar
 informacion de los dispositivos de la infraestructura
