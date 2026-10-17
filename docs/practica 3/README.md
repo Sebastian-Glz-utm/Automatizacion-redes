@@ -23,11 +23,52 @@ El propósito de esta práctica fue desarrollar un programa en Python para repre
 | R2 | Router | 10.1.1.2 | Activo | Enrutamiento |
 | S1 | Switch | 10.1.1.3 | Activo | Conectividad local |
 
-*Nota: las direcciones IP son ejemplos y deben sustituirse si son diferentes a las de la topología desarrollada en la Práctica 2.*
-
 ## 4. Evidencias
 
 Se integrarán las capturas de pantalla de la estructura del repositorio, el código fuente, la ejecución del programa, el uso de listas y diccionarios, las funciones, las condiciones, la búsqueda de dispositivos y las pruebas realizadas.
+**Evidencia 2. Código fuente**
+
+En esta captura se observa el código desarrollado en Python para almacenar información de los dispositivos de red mediante variables y mostrarla en pantalla utilizando la función `print()`.
+
+**Evidencia 3. Ejecución del programa**
+
+Se muestra la ejecución del programa en la terminal de Visual Studio Code, donde se visualizan los datos del dispositivo representado y se comprueba que las instrucciones se ejecutan correctamente.
+
+**Evidencia 4. Representación de la topología**
+
+En esta evidencia se representa la información de los dispositivos utilizados en la Práctica 2, incluyendo sus nombres, tipos, direcciones IP, interfaces y estados.
+
+**Evidencia 5. Lista y diccionarios**
+
+Se observa cómo se organizó la información de varios dispositivos mediante una lista que contiene diccionarios, permitiendo almacenar los datos de cada equipo de manera estructurada.
+
+**Evidencia 6. Recorrido de dispositivos**
+
+La captura muestra el uso del ciclo `for` para recorrer la lista e imprimir la información de cada dispositivo de la infraestructura de red.
+
+**Evidencia 7. Función y datos adicionales**
+
+Se muestra la función `mostrar_dispositivo()`, utilizada para presentar la información de cada equipo, incluyendo fabricante, protocolo, ubicación y estado.
+
+**Evidencia 8. Búsqueda de dispositivos**
+
+En esta evidencia se demuestra el funcionamiento de la búsqueda por nombre. Se ingresa el identificador de un dispositivo y el programa muestra su información cuando lo encuentra.
+
+**Evidencia 9. Verificación del estado**
+
+Se modificó temporalmente el estado de un dispositivo para comprobar que la condición `if` identifica los equipos activos y aquellos que requieren atención.
+
+**Evidencia 10. Modificación de información**
+
+Se cambió temporalmente la dirección IP de un dispositivo para comprobar que el programa muestra el nuevo valor. Posteriormente, se restauró la información original.
+
+**Evidencia 11. Documentación**
+
+Se presenta el archivo README de la Práctica 3, donde se documentan el propósito, los conceptos utilizados, los dispositivos representados, las pruebas y las conclusiones.
+
+**Evidencia 12. Repositorio actualizado**
+
+Se muestra el repositorio de GitHub con los archivos de código, documentación y evidencias correspondientes al desarrollo de la práctica.
 
 ## 5. Problemas y soluciones
 
