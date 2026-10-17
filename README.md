@@ -3,10 +3,12 @@
 ### Práctica 1
 Preparación de la estación de automatización de redes.
 Estado: Completada.
+**Estado:**  Completada.
 
 ### Práctica 2
 Construcción de la red simulada en GNS3.
-Estado: Completada.
+
+**Estado:**  Completada.
 
 Infraestructura construida:
 - Topología básica PC-Switch-PC.
