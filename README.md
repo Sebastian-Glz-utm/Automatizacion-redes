@@ -39,3 +39,11 @@ condiciones y funciones para mostrar y buscar dispositivos.
 **Proximo paso:** Desarrollar programas para consultar,
 procesar y automatizar informacion de la infraestructura.
 
+### Práctica 4
+**Exploración de comunidades, documentación y recursos de colaboración**
+
+**Estado:** En proceso 
+
+Se investigaron recursos de documentación y comunidades relacionados con Python, GNS3 y la automatización de redes. Los hallazgos se organizaron en `docs/practica-04/` para apoyar la resolución de problemas en las siguientes etapas del proyecto integrador.
+
+**Próximo paso:** continuar desarrollando programas en Python y consultar los recursos técnicos investigados cuando sea necesario.
