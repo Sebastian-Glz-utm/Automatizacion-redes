@@ -39,7 +39,3 @@ Es importante porque permite que otras personas comprendan qué se ha hecho y qu
 ### 5. ¿Qué comportamiento debe mantener un estudiante al solicitar ayuda o utilizar una solución publicada por otra persona?
 
 Un estudiante debe comunicarse con respeto, explicar claramente sus dudas y agradecer la ayuda recibida. Cuando utiliza una solución publicada por otra persona, debe comprobar que funcione en su entorno, comprender cómo funciona y reconocer la fuente cuando corresponda. También debe respetar las reglas de la comunidad y evitar copiar código sin entenderlo.
-
-## 3. Conclusión
-
-Las comunidades de colaboración son recursos importantes para aprender programación y resolver problemas técnicos. Stack Overflow en español permite consultar dudas de código, GitHub facilita la organización y el control de versiones, y la comunidad de GNS3 ayuda a investigar dificultades relacionadas con la simulación de redes. En nuestro proyecto integrador, podemos utilizar estos espacios para encontrar soluciones, compartir conocimientos y documentar los avances. Es importante verificar la información encontrada y mantener una participación respetuosa y responsable.
