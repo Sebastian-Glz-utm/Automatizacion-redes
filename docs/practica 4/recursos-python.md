@@ -37,8 +37,3 @@ La documentación oficial explica el funcionamiento del lenguaje y sus herramien
 - **Utilidad para el proyecto integrador:** Permite verificar cómo utilizar correctamente las funciones y módulos que se necesiten en los futuros scripts de automatización de redes.
 - **Ejemplo de cuándo lo consultaría:** Cuando necesite revisar el funcionamiento de una función o investigar cómo manejar archivos y datos dentro de un programa.
 
----
-
-## Conclusión de la investigación
-
-La documentación oficial de Python es un recurso importante para aprender, consultar dudas y desarrollar programas correctamente. Para nuestro proyecto de automatización de redes, permite reforzar los conocimientos de programación y encontrar información confiable sobre las herramientas que utilizaremos. Además, consultar ejemplos y comprobar las instrucciones antes de aplicarlas ayuda a reducir errores y facilita el mantenimiento del código.
