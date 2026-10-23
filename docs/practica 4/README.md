@@ -71,4 +71,12 @@ Durante esta práctica aprendí que existen diferentes recursos para investigar 
 
 ## 7. Conclusión individual
 
+
+Estrada Rios Jovany de Jesus
+
 Esta práctica me permitió comprender la importancia de consultar fuentes confiables cuando se desarrolla un programa o se configura una red. Aprendí que la documentación oficial proporciona información estructurada, mientras que las comunidades permiten conocer experiencias y soluciones de otros usuarios. También identifiqué que es necesario revisar las versiones, los requisitos y la compatibilidad de las herramientas antes de utilizarlas. En el proyecto de automatización de redes, estos recursos me ayudarán a resolver dudas sobre Python, investigar problemas de GNS3 y conocer bibliotecas como Netmiko. Además, comprendí que no basta con encontrar una solución, sino que debemos probarla y verificar que funcione correctamente. Finalmente, documentar los resultados en GitHub permitirá mantener organizada la información y reutilizar los conocimientos en las siguientes prácticas.
+
+
+Gonzáles Cavazos Sebastián
+
+Durante esta práctica aprendí la importancia de consultar documentación oficial y utilizar comunidades tecnológicas para resolver dudas relacionadas con la programación y la automatización de redes. Comprendí que investigar en fuentes confiables permite obtener información más precisa y actualizada, lo cual ayuda a evitar errores durante el desarrollo de un proyecto. También conocí herramientas como Python, GNS3 y Netmiko, que pueden ser útiles para crear programas, diseñar topologías de red y automatizar tareas en dispositivos. Además, entendí que GitHub facilita la organización y colaboración en proyectos, mientras que comunidades como Stack Overflow permiten consultar problemas similares y aprender de las experiencias de otros desarrolladores. Otro aspecto importante fue reconocer que no debemos copiar soluciones sin comprenderlas, sino analizarlas y probarlas antes de aplicarlas. Estos conocimientos me ayudarán a investigar de manera más ordenada, documentar los procedimientos realizados y encontrar soluciones cuando surjan errores. Finalmente, considero que saber buscar, evaluar y utilizar recursos técnicos es una habilidad fundamental para continuar desarrollando el proyecto de automatización de redes y mejorar mis conocimientos de programación.
