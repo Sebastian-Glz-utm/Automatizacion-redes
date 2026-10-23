@@ -1,5 +1,5 @@
 # Recursos de Python
-## 1. ¿Qué es la documentación oficial de un lenguaje de programación?
+# 1. ¿Qué es la documentación oficial de un lenguaje de programación?
 
 La documentación oficial es el conjunto de manuales, guías y referencias publicados por los responsables de un lenguaje de programación. En el caso de Python, permite conocer cómo funciona el lenguaje y cómo utilizar correctamente sus instrucciones, funciones y herramientas.
 
