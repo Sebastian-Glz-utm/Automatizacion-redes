@@ -5,4 +5,8 @@ El control de versiones permite registrar los cambios realizados
 en los archivos de un proyecto de software.
 
 Equipo:
+5
 Integrantes:
+JOVANY DE JESUS ESTRADA RIOS
+SEBASTIAN GONZALES CAVAZOS
+
