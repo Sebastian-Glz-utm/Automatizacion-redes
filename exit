@@ -1,0 +1,9 @@
+[1mdiff --git a/actividad-control-versiones/registro.txt b/actividad-control-versiones/registro.txt[m
+[1mindex eaaf290..799263c 100644[m
+[1m--- a/actividad-control-versiones/registro.txt[m
+[1m+++ b/actividad-control-versiones/registro.txt[m
+[36m@@ -9,4 +9,3 @@[m [mEquipo:[m
+ Integrantes:[m
+ JOVANY DE JESUS ESTRADA RIOS[m
+ SEBASTIAN GONZALES CAVAZOS[m
+[31m-[m
