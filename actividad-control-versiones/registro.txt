@@ -1,8 +1,8 @@
 ACTIVIDAD: SISTEMA DE CONTROL DE VERSIONES
 
-Versión 1
-El control de versiones permite registrar los cambios realizados
-en los archivos de un proyecto de software.
+Versión 2
+Git permite conservar un historial de cambios y recuperar
+versiones anteriores de los archivos.
 
 Equipo:
 5
